@@ -1,0 +1,3 @@
+/home/sunyingchun/share/tcp_audio/tcp_server_with_audio/build/CMakeFiles/edit_cache.dir
+/home/sunyingchun/share/tcp_audio/tcp_server_with_audio/build/CMakeFiles/rebuild_cache.dir
+/home/sunyingchun/share/tcp_audio/tcp_server_with_audio/build/CMakeFiles/servertest.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/clienttest.dir/src/pthread_define.c.o CMakeFiles/clienttest.dir/src/tcpclient.cpp.o CMakeFiles/clienttest.dir/src/main.cpp.o  -o clienttest -lpthread 
